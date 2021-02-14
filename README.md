@@ -1,0 +1,2 @@
+# http-sampler
+Jmeter sampler
